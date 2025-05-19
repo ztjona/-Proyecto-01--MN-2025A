@@ -1,0 +1,23 @@
+# Proyecto Blackbox *S*
+
+La red neuronal **Blackbox *S*** es una función paramétrica $f_\theta:\mathbb{R}^2 \rightarrow \mathbb{B}; (x_1, x_2) \mapsto f(x_1, x_2) \forall x_1 \ge 0$.
+
+```python
+from Blackbox import load_model, predict_point
+model = load_model()
+predict_point(model, 0.2, 0.4)
+```
+Output:
+```
+1.0
+```
+
+Determine la relación entre $x_1$ y $x_2$.
+
+# Instrucciones
+Instale las dependencias:
+```bash
+$ pip install -r requirements.txt
+```
+
+View more examples in [this notebook](blackbox_s.ipynb).
