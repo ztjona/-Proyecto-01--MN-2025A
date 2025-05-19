@@ -12,9 +12,9 @@ Para reservar el proyecto de su preferencia debe comunicarse lo más pronto posi
 En caso de no haber disponibilidad, el profesor le indicará las alternativas.
 
 # Cronograma
-* **Selección de proyectos:** hasta el 22 de enero de 2025
-* **Entrega:** 11 de febrero de 2025
-* **Presentación:** 12 de febrero de 2025
+* **Selección de proyectos:** hasta el 2 de junio de 2025
+* **Entrega:** 15 de junio de 2025, 10:00 pm
+* **Presentación:** 16 de junio de 2025
 
 
 # Rúbrica de evaluación
